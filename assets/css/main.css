@@ -3162,6 +3162,15 @@ input, select, textarea {
 
 		}
 
+		#buttons_section{
+			background-color: #0367a6; 
+			margin-top: 1cm;
+		}
+
+		.button_text{
+			color: black;
+		}
+		
 /* Footer */
 
 	#footer {
